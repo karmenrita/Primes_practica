@@ -1,0 +1,103 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: Arial;
+}
+
+.ico{
+	font-size: 50px;
+}
+
+.contenedor{
+	width: 100%;
+	background-image: url(../img/background/hero.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
+p.logo{
+	padding: 0px 10px;
+}
+nav{
+	padding: 0% 10% 1% 1%;
+}
+
+a.menu{
+	padding: 0 10px;
+}
+a.menu:hover{
+	color: green;
+}
+.fila{
+	background-color: rgba( 0,0,0, 0.7);
+	padding: 2% 8%;
+}
+
+.fila .box{
+	width: 74%;
+	display: inline-block;
+	text-align: center;
+	margin: 0 12%;
+	padding: 0 0 16% 0;
+}
+
+.titulo{
+	font-size: 50px;
+	padding: 11% 0 4% 0;
+}
+.text{
+	padding:  0 0 4% 0;
+}
+
+button{
+	border: none;
+	padding: 15px;
+	margin: 0 20px;
+	background: rgba(255, 255, 255, 0.1);
+	font-size: 16px;
+}
+
+.cajas{
+	margin: 6% 13%;
+}
+
+.cajita{
+	padding: 5%;
+}
+
+.chico{
+	font-size: 13px;
+}
+
+.subtitulo{
+	font-size: 32px;
+}
+
+.mac{
+	background-color: #f6f6f6;
+	padding: 5% 0 2% 0;
+}
+
+.laptop{
+	width: 70%;
+}
+
+.vineta{
+	display: block;
+	height: 80px;
+	width: 40px;
+	float: left;
+}
+
+.graf{
+	font-size: 30px;
+	float: left;
+}
+
+.cajas2{
+	padding: 5% 10%;
+}
+
+.vingraf{
+	padding: 2%;
+}
